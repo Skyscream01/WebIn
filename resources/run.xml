@@ -1,0 +1,23 @@
+﻿<xml>
+  <!-- possible values: remote ; local;-->
+  <env>remote</env>
+  
+  <!-- App settings -->
+<Timeout>60</Timeout>
+  
+<!-- BrowserStack Common Capabilities -->
+  <bsuser>eugenyb1</bsuser>
+  <bskey>UqRspDkQN3ov7KTQSQF7</bskey>
+  <!-- possible values: desktop ; device; -->
+  <bsplatform>desktop</bsplatform>
+  <!-- BrowserStack Desktop Capabilities --> 
+  <bsbrowser>Chrome</bsbrowser>
+  <bsbrowserversion>51.0</bsbrowserversion>
+  <bsos>Windows</bsos>
+  <bsosversion>7</bsosversion>
+  <bsresolution>1920x1080</bsresolution>
+  <!-- BrowserStack Mobile Capabilities -->
+  <bsbrowsername>android</bsbrowsername>
+  <bsosplatform>Android</bsosplatform>
+  <bsdevice>Samsung Galaxy S5</bsdevice>
+</xml>

@@ -1,0 +1,89 @@
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\ImapX.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\log4net.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\nunit-console-runner.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\nunit.core.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\nunit.core.interfaces.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\nunit.framework.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\nunit.util.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\Rhino.Mocks.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\WebDriver.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\WebDriver.Support.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\OnlinerTestDemo.dll.config
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\OnlinerTestDemo.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\OnlinerTestDemo.pdb
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\obj\Debug\OnlinerTestDemo.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\obj\Debug\OnlinerTestDemo.pdb
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\OnlinerTestDemo.dll.config
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\OnlinerTestDemo.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\OnlinerTestDemo.pdb
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\ImapX.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\log4net.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\nunit-console-runner.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\nunit.core.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\nunit.core.interfaces.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\nunit.framework.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\nunit.util.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\Rhino.Mocks.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\WebDriver.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\bin\Debug\WebDriver.Support.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\obj\Debug\onlinerTest.csprojResolveAssemblyReference.cache
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\obj\Debug\OnlinerTestDemo.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\SMART\obj\Debug\OnlinerTestDemo.pdb
+C:\Users\e.belyaev\Desktop\SMART\bin\Debug\OnlinerTestDemo.dll.config
+C:\Users\e.belyaev\Desktop\SMART\bin\Debug\OnlinerTestDemo.dll
+C:\Users\e.belyaev\Desktop\SMART\bin\Debug\OnlinerTestDemo.pdb
+C:\Users\e.belyaev\Desktop\SMART\bin\Debug\ImapX.dll
+C:\Users\e.belyaev\Desktop\SMART\bin\Debug\nunit-console-runner.dll
+C:\Users\e.belyaev\Desktop\SMART\bin\Debug\nunit.core.dll
+C:\Users\e.belyaev\Desktop\SMART\bin\Debug\nunit.core.interfaces.dll
+C:\Users\e.belyaev\Desktop\SMART\bin\Debug\nunit.framework.dll
+C:\Users\e.belyaev\Desktop\SMART\bin\Debug\nunit.util.dll
+C:\Users\e.belyaev\Desktop\SMART\bin\Debug\Rhino.Mocks.dll
+C:\Users\e.belyaev\Desktop\SMART\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\e.belyaev\Desktop\SMART\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\e.belyaev\Desktop\SMART\bin\Debug\WebDriver.dll
+C:\Users\e.belyaev\Desktop\SMART\bin\Debug\WebDriver.Support.dll
+C:\Users\e.belyaev\Desktop\SMART\obj\Debug\onlinerTest.csprojResolveAssemblyReference.cache
+C:\Users\e.belyaev\Desktop\SMART\obj\Debug\OnlinerTestDemo.dll
+C:\Users\e.belyaev\Desktop\SMART\obj\Debug\OnlinerTestDemo.pdb
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\OnlinerTestDemo.dll.config
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\OnlinerTestDemo.dll
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\OnlinerTestDemo.pdb
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\ImapX.dll
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\log4net.dll
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\nunit-console-runner.dll
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\nunit.core.dll
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\nunit.framework.dll
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\nunit.util.dll
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\Rhino.Mocks.dll
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\WebDriver.dll
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\WebDriver.Support.dll
+C:\Users\Skyscream\Desktop\Onliner\Onliner\obj\Debug\onlinerTest.csprojResolveAssemblyReference.cache
+C:\Users\Skyscream\Desktop\Onliner\Onliner\obj\Debug\OnlinerTestDemo.dll
+C:\Users\Skyscream\Desktop\Onliner\Onliner\obj\Debug\OnlinerTestDemo.pdb
+C:\Users\Skyscream\Desktop\Onliner\Onliner\bin\Debug\resources\chromedriver.exe
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\resources\chromedriver.exe
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\OnlinerTestDemo.dll.config
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\OnlinerTestDemo.dll
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\OnlinerTestDemo.pdb
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\ImapX.dll
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\nunit-console-runner.dll
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\nunit.core.dll
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\nunit.core.interfaces.dll
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\nunit.framework.dll
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\nunit.util.dll
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\Rhino.Mocks.dll
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\WebDriver.dll
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\bin\Debug\WebDriver.Support.dll
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\obj\Debug\onlinerTest.csprojResolveAssemblyReference.cache
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\obj\Debug\OnlinerTestDemo.dll
+C:\Users\e.belyaev\Desktop\Onliner\Onliner\Onliner\obj\Debug\OnlinerTestDemo.pdb

@@ -1,0 +1,88 @@
+c:\users\d.bogatko\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\d.bogatko\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\d.bogatko\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\d.bogatko\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ThoughtWorks.Selenium.Core.dll
+c:\users\d.bogatko\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.dll
+c:\users\d.bogatko\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.Support.dll
+c:\users\d.bogatko\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\kasptests.csprojResolveAssemblyReference.cache
+c:\users\d.bogatko\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\d.bogatko\documents\visual studio 2012\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\d.bogatko\Documents\Visual Studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\log4net.dll
+C:\Users\d.bogatko\Documents\Visual Studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit-console-runner.dll
+C:\Users\d.bogatko\Documents\Visual Studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.core.dll
+C:\Users\d.bogatko\Documents\Visual Studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.core.interfaces.dll
+C:\Users\d.bogatko\Documents\Visual Studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\d.bogatko\Documents\Visual Studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.util.dll
+C:\Users\d.bogatko\Documents\Visual Studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Rhino.Mocks.dll
+C:\Users\d.bogatko\Documents\Visual Studio 2012\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\d.bogatko\Documents\Visual Studio 2012\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\kasptests.csproj.ResolveComReference.cache
+C:\Users\d.bogatko\Documents\Visual Studio 2012\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\KaspTestDemo.dll.config
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\KaspTestDemo.dll
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\KaspTestDemo.pdb
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ImapX.dll
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\log4net.dll
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit-console-runner.dll
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.core.dll
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.core.interfaces.dll
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.util.dll
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Rhino.Mocks.dll
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.dll
+C:\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\WebDriver.Support.dll
+C:\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\KaspTestDemo.dll
+C:\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\KaspTestDemo.pdb
+C:\Projects\KaspTests\KaspTests\bin\Debug\KaspTestDemo.dll.config
+C:\Projects\KaspTests\KaspTests\bin\Debug\KaspTestDemo.dll
+C:\Projects\KaspTests\KaspTests\bin\Debug\KaspTestDemo.pdb
+C:\Projects\KaspTests\KaspTests\bin\Debug\ImapX.dll
+C:\Projects\KaspTests\KaspTests\bin\Debug\log4net.dll
+C:\Projects\KaspTests\KaspTests\bin\Debug\nunit-console-runner.dll
+C:\Projects\KaspTests\KaspTests\bin\Debug\nunit.core.dll
+C:\Projects\KaspTests\KaspTests\bin\Debug\nunit.core.interfaces.dll
+C:\Projects\KaspTests\KaspTests\bin\Debug\nunit.framework.dll
+C:\Projects\KaspTests\KaspTests\bin\Debug\nunit.util.dll
+C:\Projects\KaspTests\KaspTests\bin\Debug\Rhino.Mocks.dll
+C:\Projects\KaspTests\KaspTests\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Projects\KaspTests\KaspTests\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Projects\KaspTests\KaspTests\bin\Debug\WebDriver.dll
+C:\Projects\KaspTests\KaspTests\bin\Debug\WebDriver.Support.dll
+C:\Projects\KaspTests\KaspTests\obj\Debug\kasptests.csprojResolveAssemblyReference.cache
+C:\Projects\KaspTests\KaspTests\obj\Debug\KaspTestDemo.dll
+C:\Projects\KaspTests\KaspTests\obj\Debug\KaspTestDemo.pdb
+D:\kaspersky\Tests\KaspTests\bin\Debug\KaspTestDemo.dll.config
+D:\kaspersky\Tests\KaspTests\bin\Debug\KaspTestDemo.dll
+D:\kaspersky\Tests\KaspTests\bin\Debug\KaspTestDemo.pdb
+D:\kaspersky\Tests\KaspTests\bin\Debug\ImapX.dll
+D:\kaspersky\Tests\KaspTests\bin\Debug\log4net.dll
+D:\kaspersky\Tests\KaspTests\bin\Debug\nunit-console-runner.dll
+D:\kaspersky\Tests\KaspTests\bin\Debug\nunit.core.dll
+D:\kaspersky\Tests\KaspTests\bin\Debug\nunit.core.interfaces.dll
+D:\kaspersky\Tests\KaspTests\bin\Debug\nunit.framework.dll
+D:\kaspersky\Tests\KaspTests\bin\Debug\nunit.util.dll
+D:\kaspersky\Tests\KaspTests\bin\Debug\Rhino.Mocks.dll
+D:\kaspersky\Tests\KaspTests\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\kaspersky\Tests\KaspTests\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\kaspersky\Tests\KaspTests\bin\Debug\WebDriver.dll
+D:\kaspersky\Tests\KaspTests\bin\Debug\WebDriver.Support.dll
+D:\kaspersky\Tests\KaspTests\obj\Debug\KaspTestDemo.dll
+D:\kaspersky\Tests\KaspTests\obj\Debug\KaspTestDemo.pdb
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\KaspTestDemo.dll.config
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\KaspTestDemo.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\KaspTestDemo.pdb
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\ImapX.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\log4net.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\nunit-console-runner.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\nunit.core.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\nunit.core.interfaces.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\nunit.framework.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\nunit.util.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\Rhino.Mocks.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\WebDriver.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\bin\Debug\WebDriver.Support.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\obj\Debug\KaspTestDemo.dll
+C:\Users\s.hamzatov\Desktop\Тестовое задание\Тестовое задание\KaspTests\obj\Debug\KaspTestDemo.pdb

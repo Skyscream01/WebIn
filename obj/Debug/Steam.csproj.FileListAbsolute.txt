@@ -1,0 +1,49 @@
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\resources\chromedriver.exe
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\Steam.dll.config
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\Steam.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\Steam.pdb
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\ImapX.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\nunit-console-runner.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\nunit.core.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\nunit.core.interfaces.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\nunit.framework.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\nunit.util.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\Rhino.Mocks.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\WebDriver.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\WebDriver.Support.dll
+C:\Users\e.belyaev\Desktop\STEAM\obj\Debug\Steam.dll
+C:\Users\e.belyaev\Desktop\STEAM\obj\Debug\Steam.pdb
+C:\Users\e.belyaev\Desktop\STEAM\obj\Debug\Steam.csprojResolveAssemblyReference.cache
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\resources\chromedriver.exe
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\Steam.dll.config
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\Steam.dll
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\Steam.pdb
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\ImapX.dll
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\log4net.dll
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\nunit-console-runner.dll
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\nunit.core.dll
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\nunit.framework.dll
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\nunit.util.dll
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\Rhino.Mocks.dll
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\WebDriver.dll
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\bin\Debug\WebDriver.Support.dll
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\obj\Debug\Steam.csprojResolveAssemblyReference.cache
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\obj\Debug\Steam.dll
+C:\Users\Skyscream\Desktop\STEAM (2)\STEAM\obj\Debug\Steam.pdb
+C:\Users\e.belyaev\Desktop\almost\almost\STEAM\bin\Debug\resources\chromedriver.exe
+C:\Users\e.belyaev\Desktop\almost\almost\STEAM\bin\Debug\Steam.dll.config
+C:\Users\e.belyaev\Desktop\almost\almost\STEAM\bin\Debug\Steam.dll
+C:\Users\e.belyaev\Desktop\almost\almost\STEAM\bin\Debug\Steam.pdb
+C:\Users\e.belyaev\Desktop\almost\almost\STEAM\bin\Debug\nunit.framework.dll
+C:\Users\e.belyaev\Desktop\almost\almost\STEAM\bin\Debug\WebDriver.dll
+C:\Users\e.belyaev\Desktop\almost\almost\STEAM\bin\Debug\WebDriver.Support.dll
+C:\Users\e.belyaev\Desktop\almost\almost\STEAM\obj\Debug\Steam.dll
+C:\Users\e.belyaev\Desktop\almost\almost\STEAM\obj\Debug\Steam.pdb
+C:\Users\e.belyaev\Desktop\almost\almost\STEAM\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\e.belyaev\Desktop\almost\almost\STEAM\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\e.belyaev\Desktop\almost\almost\STEAM\obj\Debug\Steam.csprojResolveAssemblyReference.cache

@@ -1,0 +1,90 @@
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\resources\chromedriver.exe
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\ImapX.dll
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\nunit-console-runner.dll
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\nunit.core.dll
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\nunit.core.interfaces.dll
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\nunit.framework.dll
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\nunit.util.dll
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\Rhino.Mocks.dll
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\WebDriver.dll
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\WebDriver.Support.dll
+C:\Users\e.belyaev\Desktop\Tut\obj\Debug\TutTest.csprojResolveAssemblyReference.cache
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\TutbyTest.dll.config
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\TutbyTest.dll
+C:\Users\e.belyaev\Desktop\Tut\bin\Debug\TutbyTest.pdb
+C:\Users\e.belyaev\Desktop\Tut\obj\Debug\TutbyTest.dll
+C:\Users\e.belyaev\Desktop\Tut\obj\Debug\TutbyTest.pdb
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\resources\chromedriver.exe
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\TutbyTest.dll.config
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\TutbyTest.dll
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\TutbyTest.pdb
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\ImapX.dll
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\nunit-console-runner.dll
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\nunit.core.dll
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\nunit.core.interfaces.dll
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\nunit.framework.dll
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\nunit.util.dll
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\Rhino.Mocks.dll
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\WebDriver.dll
+C:\Users\e.belyaev\Desktop\Tut - Copy\bin\Debug\WebDriver.Support.dll
+C:\Users\e.belyaev\Desktop\Tut - Copy\obj\Debug\TutTest.csprojResolveAssemblyReference.cache
+C:\Users\e.belyaev\Desktop\Tut - Copy\obj\Debug\TutbyTest.dll
+C:\Users\e.belyaev\Desktop\Tut - Copy\obj\Debug\TutbyTest.pdb
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\resources\chromedriver.exe
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\TutbyTest.dll.config
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\TutbyTest.dll
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\TutbyTest.pdb
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\ImapX.dll
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\nunit-console-runner.dll
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\nunit.core.dll
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\nunit.core.interfaces.dll
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\nunit.framework.dll
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\nunit.util.dll
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\Rhino.Mocks.dll
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\WebDriver.dll
+C:\Users\e.belyaev\Desktop\SMART 2\bin\Debug\WebDriver.Support.dll
+C:\Users\e.belyaev\Desktop\SMART 2\obj\Debug\TutTest.csprojResolveAssemblyReference.cache
+C:\Users\e.belyaev\Desktop\SMART 2\obj\Debug\TutbyTest.dll
+C:\Users\e.belyaev\Desktop\SMART 2\obj\Debug\TutbyTest.pdb
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\resources\chromedriver.exe
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\TutbyTest.dll.config
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\TutbyTest.dll
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\TutbyTest.pdb
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\ImapX.dll
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\nunit-console-runner.dll
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\nunit.core.dll
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\nunit.core.interfaces.dll
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\nunit.framework.dll
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\nunit.util.dll
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\Rhino.Mocks.dll
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\WebDriver.dll
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\bin\Debug\WebDriver.Support.dll
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\obj\Debug\TutTest.csprojResolveAssemblyReference.cache
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\obj\Debug\TutbyTest.dll
+C:\Users\e.belyaev\Desktop\СМАРТ 2\SMART 2\obj\Debug\TutbyTest.pdb
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\resources\chromedriver.exe
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\Steam.dll.config
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\Steam.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\Steam.pdb
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\ImapX.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\nunit-console-runner.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\nunit.core.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\nunit.core.interfaces.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\nunit.framework.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\nunit.util.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\Rhino.Mocks.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\WebDriver.dll
+C:\Users\e.belyaev\Desktop\STEAM\bin\Debug\WebDriver.Support.dll
+C:\Users\e.belyaev\Desktop\STEAM\obj\Debug\TutTest.csprojResolveAssemblyReference.cache
+C:\Users\e.belyaev\Desktop\STEAM\obj\Debug\Steam.dll
+C:\Users\e.belyaev\Desktop\STEAM\obj\Debug\Steam.pdb
